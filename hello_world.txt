@@ -1,3 +1,5 @@
 Hello! Just adding text as directed.
 Test 2.
 Test 3.
+Test 4. Will git push if I'm not in the directory?
+test 5.
